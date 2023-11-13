@@ -12,8 +12,6 @@ Pursuing the dream of being a Junior Web Developer!✨
 
 ![Javascript](./gifs/js.gif)
 ![React](./gifs/react.gif)
-![CSS](./gifs/css.gif)
-![HTML](./gifs/html.gif)
 
 
 <!--
