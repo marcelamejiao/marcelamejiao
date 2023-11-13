@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my coding world🌏 
+Pursuing the dream of being a Junior Web Developer!
 
 ![Landing Image](./gifs/calm.gif)
 
