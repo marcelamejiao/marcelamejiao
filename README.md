@@ -1,13 +1,22 @@
 ### Hi there 👋
 
 Welcome to my coding world🌏 
-Pursuing the dream of being a Junior Web Developer!
+Pursuing the dream of being a Junior Web Developer!✨
 
 ![Landing Image](./gifs/calm.gif)
 
-<!--
-**marcelamejiao/marcelamejiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🔭 I’m currently working on: Employee Full stack App
+
+-  Some languages of my stack:
+
+![Javascript](./gifs/js.gif)
+![React](./gifs/react.gif)
+![CSS](./gifs/css.gif)
+![HTML](./gifs/html.gif)
+
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
