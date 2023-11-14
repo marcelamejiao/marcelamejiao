@@ -3,7 +3,7 @@
 ### Welcome to my coding world🌏 
 Pursuing the dream of being a Junior Web Developer!✨
 
-<img src="./gifs/calm.gif" alt="Landing Image" width="200"/>
+<img src="./gifs/calm.gif" alt="Landing Image" width="600"/>
 
 
 ## Some languages of my stack:
