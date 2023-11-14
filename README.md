@@ -6,7 +6,7 @@ Pursuing the dream of being a Junior Web Developer!✨
 ![Landing Image](./gifs/calm.gif)
 
 ## Some languages of my stack:
-<img src="./gifs/js.gif" alt="Javascript" width="200"/>
+<img src="./gifs/js.gif" alt="Javascript" width="50"/>
 
 ![React](./gifs/react.gif)
 
