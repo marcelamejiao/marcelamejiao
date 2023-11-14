@@ -3,13 +3,12 @@
 ### Welcome to my coding world🌏 
 Pursuing the dream of being a Junior Web Developer!✨
 
-![Landing Image](./gifs/calm.gif)
+<img src="./gifs/calm.gif" alt="Landing Image" width="200"/>
+
 
 ## Some languages of my stack:
 <img src="./gifs/js.gif" alt="Javascript" width="50"/>
-
-![React](./gifs/react.gif)
-
+<img src="./gifs/react.gif" alt="React" width="50"/>
 
 - 🔭 I’m currently working on: Employee Full stack App
 
