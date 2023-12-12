@@ -9,7 +9,7 @@
   <img src="./gifs/js.gif" alt="Javascript" width="50"/>
   <img src="./gifs/react.gif" alt="React" width="50"/>
   
-  🔭 I’m currently working on: Employee Full stack App and Postcode API
+  🔭 I’m currently working on: Employee Full stack App, Postcode API and Events Calendar
 
   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wmarcelamejia) 
 
