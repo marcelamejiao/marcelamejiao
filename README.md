@@ -11,6 +11,8 @@
   
   🔭 I’m currently working on: 
 [Events Calendar](https://github.com/marcelamejiao/Events-Calendar)
+[Events Creator API](https://github.com/marcelamejiao/Events-Creator-API)
+
 
   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wmarcelamejia) 
 
