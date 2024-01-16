@@ -16,6 +16,8 @@
 
 <div id="footer" align="center">
 
+![Marcela's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelamejiao&show_icons=true&theme=catppuccin_latte)
+
 ## Contact me:
   
   📫 My [Linkedin](https://www.linkedin.com/in/wmarcelamejia) 
