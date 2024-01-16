@@ -1,8 +1,7 @@
 <div id="header" align="center">
-    
-# Hi there, I'm Marcela 👋
+<img  align="center" height="200" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
 
-### Welcome to my coding world🌏 
+# I'm Marcela, welcome to my coding world🌏 
 ✨Pursuing the dream of being a Junior Web Developer!
   
 ## My stack:
@@ -38,5 +37,7 @@
 
 </div>
 
+
+<img  align="center" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
 
 
