@@ -29,7 +29,6 @@
 </div>
 
 <br />
-<br />
 
 <div id="stats" align="center">
 
