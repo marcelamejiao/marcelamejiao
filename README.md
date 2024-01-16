@@ -1,32 +1,44 @@
 <div id="header" align="center">
-  
-  # Hi there, I'm Marcela 👋
-  
-  ### Welcome to my coding world🌏 
-  ✨Pursuing the dream of being a Junior Web Developer!
     
-  ## My stack:
-  [![My Skills](https://skillicons.dev/icons?i=react,ts,java,spring,js,vite,graphql,nodejs,nestjs,nextjs,mysql,html,bootstrap,css,tailwind&theme=light)](https://skillicons.dev)
+# Hi there, I'm Marcela 👋
 
-  ## I'm currently working on:
+### Welcome to my coding world🌏 
+✨Pursuing the dream of being a Junior Web Developer!
+  
+## My stack:
+[![My Skills](https://skillicons.dev/icons?i=react,ts,java,spring,js,vite,graphql,nodejs,nestjs,nextjs,mysql,html,bootstrap,css,tailwind&theme=light)](https://skillicons.dev)
+
+## I'm currently working on:
 </div>
 
-* [Events Calendar](https://github.com/marcelamejiao/Events-Calendar): This project was designed to create a web app where a user can create events using a calendar. 
+<div id="projects" align="left">
+
+* [Events Calendar](https://github.com/marcelamejiao/Events-Calendar): This project was designed to create a web app where a user can create events using a calendar.
 * [Postcode Search](https://github.com/marcelamejiao/Postcode-Search): This project was designed to allow mobile clients to retrieve and add suburb and postcode combinations.
 
-<div id="footer" align="center">
+</div>
+
+<div id="contact" align="center">
 
 ## Contact me:
-  
-  📫 My [Linkedin](https://www.linkedin.com/in/wmarcelamejia) 
 
-  💻 My [Portfolio](https://marcelamejiao.github.io/Portfolio-Scss/) 
+📫 My [Linkedin](https://www.linkedin.com/in/wmarcelamejia) 
 
-  
-![Marcela's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelamejiao&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelamejiao&layout=compact)](https://github.com/marcelamejiao/github-readme-stats)
+💻 My [Portfolio](https://marcelamejiao.github.io/Portfolio-Scss/) 
 
 </div>
+
+<br />
+<br />
+
+<div id="stats" align="center">
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marcelamejiao&show_icons=true&theme=material-palenight" />
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelamejiao&layout=compact&theme=material-palenight" />
+
+</div>
+
 
 
 
