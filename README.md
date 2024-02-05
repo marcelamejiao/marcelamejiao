@@ -24,7 +24,7 @@
 
 📫 My [Linkedin](https://www.linkedin.com/in/wmarcelamejia) 
 
-💻 My [Portfolio](https://github.com/marcelamejiao/My-Portfolio/)
+💻 My [Portfolio](https://marcelamejiao.github.io/My-Portfolio//)
 
 </div>
 
