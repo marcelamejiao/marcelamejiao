@@ -12,7 +12,8 @@
 
 <div id="projects" align="left">
 
-* [My Life Chart](https://github.com/marcelamejiao/My-Life-Chart): This project was designed to create a web app where the user see their life activities through statistical charts
+* [My Life Chart](https://github.com/marcelamejiao/My-Life-Chart): This project was designed to create a web app where the user see their life activities through statistical charts.
+* Learning Python 🐍 begginer-level.
 * [Gist](https://gist.github.com/marcelamejiao): Trying to write something on Gist.
 * [Medium](https://medium.com/@marcelamejia/uri-url-components-d5dac1233d13): Trying to write something on Medium.
 
