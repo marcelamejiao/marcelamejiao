@@ -5,7 +5,7 @@
 ✨Pursuing the dream of being a Junior Web Developer!
   
 ## My stack:
-[![My Skills](https://skillicons.dev/icons?i=react,ts,java,spring,js,py,vite,graphql,nodejs,nestjs,nextjs,mysql,html,bootstrap,css,tailwind,git,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,java,spring,js,py,vite,graphql,nodejs,nestjs,nextjs,mysql,sqlite,html,bootstrap,css,tailwind,git,firebase&theme=light)](https://skillicons.dev)
 
 ## I'm currently working on:
 </div>
