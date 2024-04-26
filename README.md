@@ -7,25 +7,11 @@
 ## My stack:
 [![My Skills](https://skillicons.dev/icons?i=react,ts,java,spring,js,py,vite,graphql,nodejs,nestjs,nextjs,mysql,sqlite,html,bootstrap,css,tailwind,git,firebase&theme=light)](https://skillicons.dev)
 
-## I'm currently working on:
-</div>
-
-<div id="projects" align="left">
-
-* [My Life Chart](https://github.com/marcelamejiao/My-Life-Chart): This project was designed to create a web app where the user see their life activities through statistical charts.
-* Learning Python 🐍 beginner-level.
-* [Gist](https://gist.github.com/marcelamejiao): Trying to write something on Gist.
-* [Medium](https://medium.com/@marcelamejia/uri-url-components-d5dac1233d13): Trying to write something on Medium.
 
 </div>
 
 <div id="contact" align="center">
 
-## Contact me:
-
-📫 My [Linkedin](https://www.linkedin.com/in/wmarcelamejia) 
-
-💻 My [Portfolio](https://marcelamejiao.github.io/My-Portfolio//)
 
 </div>
 
