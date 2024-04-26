@@ -1,8 +1,6 @@
 <div id="header" align="center">
 <img  align="center" height="150" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
 
-## I'm Marcela, welcome to my coding world🌏 
-✨Pursuing the dream of being a Junior Web Developer!
   
 ## My stack:
 [![My Skills](https://skillicons.dev/icons?i=react,ts,java,spring,js,py,vite,graphql,nodejs,nestjs,nextjs,mysql,sqlite,html,bootstrap,css,tailwind,git,firebase&theme=light)](https://skillicons.dev)
